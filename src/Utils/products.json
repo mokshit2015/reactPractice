@@ -1,0 +1,61 @@
+[
+  {
+    "productId": 1,
+    "productName": "One Plus Nord CE2 Lite",
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  },
+  {
+    "productId": 2,
+    "productName": "One Plus Nord CE2 Lite",
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 2
+  },
+  {
+    "productId": 3,
+    "productName": "One Plus Nord CE2 Lite",
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  },
+  {
+    "productId": 4,
+    "productName": "One Plus Nord CE2 Lite",
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  },
+  {
+    "productId": 5,
+    "productName": "One Plus Nord CE2 Lite",
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  },
+  {
+    "productId": 6,
+    "productName": "One Plus Nord CE2 Lite",
+    "image": ["mobile.png"],
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  },
+  {
+    "productId": 7,
+    "productName": "One Plus Nord CE2 Lite",
+    "image": ["mobile.png"],
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  },
+  {
+    "productId": 8,
+    "productName": "One Plus Nord CE2 Lite",
+    "image": ["mobile.png"],
+    "description": "Mobile Phone",
+    "price": 20000,
+    "maxPurcahseQty": 4
+  }
+]

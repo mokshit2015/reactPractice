@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NEWUSER",
+    "discount": 5
+  },
+  {
+    "name": "SEPT10",
+    "discount": 10
+  },
+  {
+    "name": "SEPT20",
+    "discount": 20
+  }
+]
